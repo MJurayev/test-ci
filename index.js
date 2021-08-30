@@ -4,7 +4,7 @@ const app = express()
 
 
 app.get('/', async (req, res) => {
-    res.json("20uzgarish")
+    res.json("3-usgarish")
 })
 
 app.listen(2000, () => {
